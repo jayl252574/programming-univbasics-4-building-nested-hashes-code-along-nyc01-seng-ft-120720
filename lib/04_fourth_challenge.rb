@@ -7,16 +7,16 @@ def fourth_challenge
   :attitude => "worried"},
   {:name => "Mercutio",
   :age => "18",
-  :attitude => "hot-headed"  
+  :attitude => "hot-headed"
   }
 ]
-}, 
+},
 :capulet => {
 @@ -14,6 +21,14 @@ def fourth_challenge
 :heroine => {name: "Juliet", age: "15", status: "alive"},
 :heroine_friends => [
   #your hashes here!
-  {:name => "Steven", 
+  {:name => "Steven",
   :age => "30",
   :attitude => "confused"
   },
@@ -28,6 +28,6 @@ def fourth_challenge
 }
 }
 
-  
+
 
 end
